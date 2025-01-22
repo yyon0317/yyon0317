@@ -61,8 +61,6 @@ node.js gulp 빌드업을 학습했습니다.<br>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"></a>
   <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white"></a>
   <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white"></a>
-  <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white"></a>
-  <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white"></a>
   <img src="https://img.shields.io/badge/sass-CC6699?style=flat&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
 <br>
@@ -72,9 +70,6 @@ node.js gulp 빌드업을 학습했습니다.<br>
 <div>
 <img alt="jQuery" src="https://img.shields.io/badge/jquery-0769AD?logo=jQuery&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/react-61DAFB?logo=react&logoColor=white">
-  <img alt="vue.js" src="https://img.shields.io/badge/vue.js-4FC08D?logo=vuedotjs&logoColor=white">
-  <img alt="nextdotjs" src="https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white">
-  <img alt="redux" src="https://img.shields.io/badge/redux-764ABC?logo=redux&logoColor=white">
   <img alt="swiper" src="https://img.shields.io/badge/swiper-6332F6?logo=swiper&logoColor=white">
   <img alt="vite" src="https://img.shields.io/badge/vite-646CFF?logo=vite&logoColor=white">
 </div>
