@@ -74,13 +74,6 @@ node.js gulp 빌드업을 학습했습니다.<br>
   <img alt="vite" src="https://img.shields.io/badge/vite-646CFF?logo=vite&logoColor=white">
 </div>
   <br><br>
-  
-  <h2>😎데이터베이스 & 클라우드 호스팅</h2>
-<div>
-<img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpMyAdmin&logoColor=white">
-  <img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white">
-</div>
-  <br><br>
 
   <h2>🛠️소프트웨어 & 툴🛠️</h2>
 <div>
