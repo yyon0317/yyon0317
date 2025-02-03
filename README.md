@@ -32,17 +32,6 @@ REACT로 YOUTUBE API를 활용해 제작한 유튜브 API 입니다.
 node.js gulp 빌드업을 학습했습니다.<br>
 [gulp-step-by-step github](https://github.com/yyon0317/gulp-step-by-step)
 
-##  PARALLAX EFFECT
-자바스크립트를 활용하여 패럴랙스 이펙트를 구현한 웹사이트 입니다. gsap를 이용한 여러가지 스크롤 애니메이션을 확인할 수 있습니다.<br>
-[PARALLAX EFFECT](https://seolhee313.github.io/web2023/javascript/parallax/parallaxEffect01.html) 
-
-##  MOUSE HOVER EFFECT
-자바스크립트를 활용하여 마우스 오버 이펙트를 구현한 웹사이트 입니다. 여러 가지 마우스 오버 효과를 확인할 수 있습니다.<br>
-[MOUSE HOVER EFFECT](https://seolhee313.github.io/web2023/javascript/mouse/mouseEffect01.html) 
-
-##  QUIZ EFFECT
-자바스크립트를 활용하여 퀴즈 이펙트를 구현한 웹사이트 입니다. 정보처리기능사, 웹디자인기능사 필기 기출문제로 제작되었습니다.<br>
-[QUIZ EFFECT](https://seolhee313.github.io/web2023/javascript/quiz/quizEffect07.html) 
 <br>
 <br>
 <br>
@@ -62,7 +51,6 @@ node.js gulp 빌드업을 학습했습니다.<br>
   <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white"></a>
   <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white"></a>
   <img src="https://img.shields.io/badge/sass-CC6699?style=flat&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
 <br>
   <br>
   <br>
