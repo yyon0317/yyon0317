@@ -5,7 +5,7 @@
 
 ##  PORTFOLIO SITE
 React로 제작한 포트폴리오 사이트 입니다. <br>
-[PORTFOLIO](portfolio-react-hy.netlify.app)      
+[PORTFOLIO](https://portfolio-react-hy.netlify.app/)      
 
 ##  Dokdo 클론 코딩 사이트
 독도 공식 사이트의 디자인과 기능을 유사하게 보이도록 제작하였습니다.<br>
@@ -13,7 +13,7 @@ React로 제작한 포트폴리오 사이트 입니다. <br>
 
 ##  CASAMIA 코딩 사이트
 디자인부터 코딩 작업 까지 제작하였습니다.<br>
-[CASAMIA SITE](cassina-portfolio.netlify.app)   
+[CASAMIA SITE](https://cassina-portfolio.netlify.app/)   
 
 ##  Hyundaistore 클론 코딩 사이트
 gulp를 사용해서 가이드부터 사이트까지 제작하였습니다. <br>
@@ -22,7 +22,7 @@ gulp를 사용해서 가이드부터 사이트까지 제작하였습니다. <br>
 
 ##  YOUTUBE API
 REACT로 YOUTUBE API를 활용해 제작한 유튜브 API 입니다.
-[YOUTUBE API]() 
+[YOUTUBE API](https://github.com/yyon0317/react-youtube) 
 
 <br>
 <br>
