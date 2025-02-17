@@ -64,6 +64,7 @@ GSAP-Effect를 학습했습니다.<br>
   <img alt="React" src="https://img.shields.io/badge/react-61DAFB?logo=react&logoColor=white">
   <img alt="swiper" src="https://img.shields.io/badge/swiper-6332F6?logo=swiper&logoColor=white">
   <img alt="vite" src="https://img.shields.io/badge/vite-646CFF?logo=vite&logoColor=white">
+  <img alt="gulp" src="https://img.shields.io/badge/gulp-CF4647?logo=gulp&logoColor=white">
 </div>
   <br><br>
 
@@ -74,6 +75,7 @@ GSAP-Effect를 학습했습니다.<br>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white"></a>
   <a href="#"><img alt="eclipseide" src="https://img.shields.io/badge/eclipseide-2C2255?logo=eclipseide&logoColor=white"></a>
   <a href="#"><img alt="bitbucket" src="https://img.shields.io/badge/bitbucket-0052CC?logo=bitbucket&logoColor=white"></a>
+  <a href="#"><img alt="github" src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white"></a>
 </div>
   <br><br><br>
 
