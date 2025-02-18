@@ -37,8 +37,6 @@ GSAP-Effect를 학습했습니다.<br>
 [GSAP-Effect](https://yyon0317.github.io/GSAP-Effect/)
 
 <br>
-<br>
-<br>
 <hr>
 <br>
 
@@ -46,7 +44,6 @@ GSAP-Effect를 학습했습니다.<br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyon0317&layout=compact">
 
-<br>
 <br>
 
 <h2>👩‍💻Platforms & Languages👩‍💻</h2>
