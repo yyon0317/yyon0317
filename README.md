@@ -20,7 +20,7 @@ gulp를 사용해서 가이드부터 사이트까지 제작하였습니다. <br>
 [HYUNDAISTORE_STYLEGUIDE SITE](https://hyundaistore-portfolio.netlify.app/bui/intro/index.html)<br>
 [HYUNDAISTORE_SITE](https://hyundaistore-portfolio.netlify.app/front/main/main) 
 
-##  YOUTUBE API
+##  YOUTUBE API 코딩 사이트(작업중)
 REACT로 YOUTUBE API를 활용해 제작한 유튜브 API 입니다.
 [YOUTUBE API](https://github.com/yyon0317/react-youtube) 
 
