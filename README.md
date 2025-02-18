@@ -30,11 +30,11 @@ REACT로 YOUTUBE API를 활용해 제작한 유튜브 API 입니다. <br>
 
 ##  gulp-step-by-step
 node.js gulp 빌드업을 학습했습니다.<br>
-[gulp-step-by-step github](https://github.com/yyon0317/gulp-step-by-step)
+[GULP-STEP-BY-STEP-GITHUB](https://github.com/yyon0317/gulp-step-by-step)
 
 ##  GSAP-Effect
 GSAP-Effect를 학습했습니다.<br>
-[GSAP-Effect](https://yyon0317.github.io/GSAP-Effect/)
+[GSAP-EFFECT](https://yyon0317.github.io/GSAP-Effect/)
 
 <br>
 <hr>
