@@ -15,10 +15,14 @@ React로 제작한 포트폴리오 사이트 입니다. <br>
 디자인부터 코딩 작업 까지 제작하였습니다.<br>
 [CASAMIA SITE](https://cassina-portfolio.netlify.app/)   
 
-##  Hyundaistore 클론 코딩 사이트
+##  HyundaiStore 클론 코딩 사이트
 gulp를 사용해서 가이드부터 사이트까지 제작하였습니다. <br>
 [HYUNDAISTORE_STYLEGUIDE SITE](https://hyundaistore-portfolio.netlify.app/bui/intro/index.html)<br>
 [HYUNDAISTORE_SITE](https://hyundaistore-portfolio.netlify.app/front/main/main) 
+
+##  HyundaiCard 클론 코딩 사이트(반응형X)
+React를 사용해서 공식 사이트의 디자인과 기능을 유사하게 보이도록 제작하였습니다 <br>
+[HYUNDAICARD_SITE](https://hyundaicard-clone.netlify.app/) 
 
 ##  YOUTUBE API 코딩 사이트(작업중)
 REACT로 YOUTUBE API를 활용해 제작한 유튜브 API 입니다. <br>
