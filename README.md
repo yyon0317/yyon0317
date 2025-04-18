@@ -73,7 +73,7 @@ GSAP-Effect를 학습했습니다.<br>
 <div>
   <a href="#"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-000?logo=CodePen&logoColor=white"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white"></a>
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual&Studio&Code-007ACC?logo=Visual Studio Code&logoColor=white"></a>
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual&Studio&Code-007ACC?logo=Visual&Studio&Code&logoColor=white"></a>
   <a href="#"><img alt="eclipseide" src="https://img.shields.io/badge/eclipseide-2C2255?logo=eclipseide&logoColor=white"></a>
   <a href="#"><img alt="bitbucket" src="https://img.shields.io/badge/bitbucket-0052CC?logo=bitbucket&logoColor=white"></a>
   <a href="#"><img alt="github" src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white"></a>
